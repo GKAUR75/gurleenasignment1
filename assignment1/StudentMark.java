@@ -11,6 +11,7 @@ public class StudentMark
 {
     String grade;
     private int numbers;
+    private double marks;
     
     public static void main(String[] args) {
     
